@@ -1,0 +1,20 @@
+[
+  "tests/test_sentinel.py::test_clear_history_requires_confirm",
+  "tests/test_sentinel.py::test_dashboard_analytics_updated",
+  "tests/test_sentinel.py::test_empty_input_rejected",
+  "tests/test_sentinel.py::test_encoded_characters_detected",
+  "tests/test_sentinel.py::test_health_check_endpoint",
+  "tests/test_sentinel.py::test_history_retrieval_and_filter",
+  "tests/test_sentinel.py::test_hostname_without_scheme_normalized",
+  "tests/test_sentinel.py::test_invalid_scheme_rejected",
+  "tests/test_sentinel.py::test_ip_address_hostname_detected",
+  "tests/test_sentinel.py::test_model_performance_endpoint",
+  "tests/test_sentinel.py::test_multiple_subdomains_detected",
+  "tests/test_sentinel.py::test_nonstandard_port_detected",
+  "tests/test_sentinel.py::test_scan_benign_url",
+  "tests/test_sentinel.py::test_scan_empty_url_rejected",
+  "tests/test_sentinel.py::test_scan_phishing_url",
+  "tests/test_sentinel.py::test_suspicious_keywords_detected",
+  "tests/test_sentinel.py::test_valid_http_url",
+  "tests/test_sentinel.py::test_valid_https_url"
+]
